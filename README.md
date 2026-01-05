@@ -28,7 +28,7 @@ Language translation is a common NLP task. Using Python and the `googletrans` li
 - python main.py
 
 ## 📄 Sample Output
-![Application Screenshot]()
+![Application Screenshot](Hindi-English/screenshot.png)
 
 ---
 

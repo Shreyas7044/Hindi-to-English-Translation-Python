@@ -35,7 +35,6 @@ Language translation is a common NLP task. Using Python and the `googletrans` li
 ## ⚙️ Installation Steps
 
 1. Clone the repository
-git clone https://github.com/your-username/Hindi-to-English-Translation-Python.git
 2. Navigate to the project folder
 cd Hindi-to-English-Translation-Python
 3. Install dependencies
